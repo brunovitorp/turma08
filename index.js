@@ -231,10 +231,4 @@ const prompt = require('prompt-sync')();
 
 let a = prompt('Informe um número: ')
 console.log(a)
-//qualquer coisa
-
-
-
-// qualquer coisa em qualquer linha.......
-
 
