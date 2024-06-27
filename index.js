@@ -233,4 +233,6 @@ let a = prompt('Informe um número: ')
 console.log(a)
 
 
+// qualquer coisa em qualquer linha
+
 
