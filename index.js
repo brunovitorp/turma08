@@ -1,3 +1,5 @@
+const prompt = require('prompt-sync')();
+
 // let num1 = Number(prompt("informe um número:"));
 // let num2 = Number(prompt("Informe o segundo número: "));
 
@@ -227,7 +229,7 @@
 //     alert('Ímpar')
 // }
 
-const prompt = require('prompt-sync')();
+// npm install prompt-sync
 
 let a = prompt('Informe um número: ')
 console.log(a)
